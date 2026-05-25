@@ -1,0 +1,2 @@
+pile_id,n_fragments,total_fragment_volume_m3,min_diameter_mm,max_diameter_mm,number_mean_diameter_mm,volume_weighted_mean_diameter_mm,P10_mm,P50_mm,P80_mm
+1,500,1.114302831638632,56.6763040793334,380.8333740509197,144.08970161834029,204.8961102231301,124.36779505478786,190.062916189618,265.18512159935074

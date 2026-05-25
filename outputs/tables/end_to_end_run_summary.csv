@@ -1,0 +1,2 @@
+n_ground_truth_fragments,ground_truth_P80_mm,dbscan_ARI,dbscan_clusters,estimated_P80_mm,P80_relative_error_pct,mean_sensitivity_P80_error_pct
+500,265.18512159935074,0.0013820464843508,392,1179.3369860406888,344.7221544436662,-19.56197175290613

@@ -1,0 +1,2 @@
+adjusted_rand_index,normalized_mutual_info,n_true_fragments,n_predicted_clusters,noise_fraction,n_clusters,median_cluster_points,max_cluster_points,radius_m,max_normal_angle_deg,max_curvature_delta,max_vertical_jump_m,min_cluster_points
+0.004091762473073112,0.5251254052927351,500,545,0.4288341409305856,545,38.0,2989,0.034,26.0,0.04,0.041,20

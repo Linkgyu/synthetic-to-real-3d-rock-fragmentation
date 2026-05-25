@@ -1,0 +1,2 @@
+n_full_points,n_exterior_points_before_density_reduction,n_final_scan_points,n_fragments_full_cloud,n_fragments_visible_after_exterior_filter,n_fragments_final_scan,angular_resolution_deg,density_keep_fraction,range_noise_sigma_m,random_seed
+120000,87842,68516,500,500,500,0.22,0.78,0.0015,2026

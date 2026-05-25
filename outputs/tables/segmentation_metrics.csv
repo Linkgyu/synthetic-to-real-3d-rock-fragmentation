@@ -1,0 +1,2 @@
+adjusted_rand_index,normalized_mutual_info,n_true_fragments,n_predicted_clusters,noise_fraction,eps_m,min_samples,n_points
+0.0013820464843508524,0.27704329472525824,500,392,0.12980909568567925,0.03,8,68516

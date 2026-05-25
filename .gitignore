@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/generated data
+data/**/*.ply
+data/**/*.npz
+data/**/*.csv
+outputs/**/*.png
+outputs/**/*.jpg
+outputs/**/*.gif
+outputs/**/*.mp4
+outputs/**/*.csv
+!outputs/figures/*.png
+!outputs/tables/*.csv
+
+# Keep directory placeholders
+!data/**/.gitkeep
+!outputs/**/.gitkeep
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

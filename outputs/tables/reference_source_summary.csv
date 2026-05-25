@@ -1,0 +1,2 @@
+source_repository,source_pointcloud,source_psd,n_points_full_labelled_cloud,n_ground_truth_fragments,ground_truth_P50_mm,ground_truth_P80_mm
+C:\Users\creep\code\python\Synthetic_Rockpile,C:\Users\creep\code\python\Synthetic_Rockpile\outputs\pointclouds\pile_0001_labelled.npz,C:\Users\creep\code\python\Synthetic_Rockpile\outputs\psd\pile_0001_psd.csv,120000,500,190.062916189618,265.18512159935074

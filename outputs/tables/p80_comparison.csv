@@ -1,0 +1,2 @@
+ground_truth_P10_mm,ground_truth_P50_mm,ground_truth_P80_mm,estimated_P10_mm,estimated_P50_mm,estimated_P80_mm,P80_error_mm,P80_relative_error_pct,n_estimated_fragments,n_ground_truth_fragments
+124.36779505478786,190.062916189618,265.18512159935074,479.5709123092443,879.4372401557839,1179.3369860406888,914.151864441338,344.7221544436662,69,500

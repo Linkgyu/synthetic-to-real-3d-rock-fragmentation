@@ -1,0 +1,17 @@
+name: synthetic-real-rockfrag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - open3d
+  - trimesh
+  - jupyter
+  - ipykernel
+  - pip
+

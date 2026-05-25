@@ -1,0 +1,2 @@
+method,n_estimated_fragments,ground_truth_P80_mm,estimated_P10_mm,estimated_P50_mm,estimated_P80_mm,P80_error_mm,P80_relative_error_pct
+surface_geometry_proxy,560,265.18512159935074,130.59106880889868,237.79646961432812,340.28279737410236,75.09767577475162,28.318962738871654

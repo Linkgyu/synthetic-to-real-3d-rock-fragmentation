@@ -1,0 +1,2 @@
+pile_id,points_per_m2,min_points_per_fragment,viewpoint_xyz,look_at_xyz,field_of_view_deg,max_range_m,occlusion_angular_resolution_deg,density_keep_fraction,range_noise_sigma_m,random_seed
+pile_0001,24000,70,"[2.4, -2.2, 1.35]","[0.0, 0.0, 0.28]",82.0,4.5,0.16,0.68,0.004,2026
