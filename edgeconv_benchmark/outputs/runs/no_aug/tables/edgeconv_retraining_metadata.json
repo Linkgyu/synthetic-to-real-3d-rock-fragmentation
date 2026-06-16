@@ -1,0 +1,16 @@
+{
+  "scan_filter_version": "angular_nearest_plus_xy_height_envelope",
+  "selected_variant": "edgeconv",
+  "selected_threshold": 0.8599999999999999,
+  "best_epoch": 12,
+  "best_val_average_precision": 0.8779462265958357,
+  "postprocess_kwargs": {
+    "max_cluster_points": 240,
+    "grid_resolution_m": 0.03,
+    "min_peak_distance_m": 0.1,
+    "peak_prominence_m": 0.012,
+    "min_child_points": 14,
+    "max_markers_per_cluster": 12
+  },
+  "photogrammetry_realism_strength": 0.0
+}
